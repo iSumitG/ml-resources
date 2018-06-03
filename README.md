@@ -1,2 +1,2 @@
-# ml-resources
-High quality machine learning resources and tutorials
+# ML Resources
+### High quality machine learning resources and tutorials
